@@ -1,5 +1,10 @@
-# karanY2019-Virtual-Reality-Unity-Quest-Project
+# Virtual-Reality-Unity-Quest-Project
 C#, Unity, VR
+
+## Interactions: 
+* Distance Grab
+* Teleportation
+* Install and assemble a Lightsaber using a GlueGun
 
 ## Demo:
 
