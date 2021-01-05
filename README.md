@@ -1,2 +1,2 @@
-# Virtual-Reality-Unity-Basic-Interaction-Project
-C#, Unity, Quest, VR
+# karanY2019-Virtual-Reality-Unity-Quest-Project
+C#, Unity, VR
